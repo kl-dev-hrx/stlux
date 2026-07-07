@@ -19,6 +19,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
+![](https://komarev.com/ghpvc/?username=Stlux&color=green)
+
 <a href="https://github.com/Stlux/tenzies-game-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stlux&layout=compact&theme=buefy&hide_border=true" />
 </a>
