@@ -21,10 +21,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Stlux&color=green)
 
-<a href="https://github.com/Stlux/tenzies-game-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stlux&layout=compact&theme=buefy&hide_border=true" />
-</a>
-
 ## 🤝 Connect with me by
 
 [![Linkedin Badge](https://img.shields.io/badge/-lykholietov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyrylo-lykholietov/)](https://www.linkedin.com/in/kyrylo-lykholietov/) [![Gmail Badge](https://img.shields.io/badge/-kirilllikholetov3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kirilllikholetov3@gmail.com)](mailto:kirilllikholetov3@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-lykholietov-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/lykholietov)](https://x.com/lykholietov)
